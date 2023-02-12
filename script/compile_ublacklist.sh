@@ -25,4 +25,4 @@ output "# Git-Commit: $(git rev-parse HEAD)"
 
 data="$(dirname "$0")/../data.json"
 jq -r '.[] | select(.type == "domain") | .domain | ("*://" + . + "/*")' < "$data" >> "$dist"
-jq -r '.[] | select(.type == "path") | .domain | ("*://" + .)' < "$data" >> "$dist"
+jq -r '.[] | select(.type == "path") | .path | ("*://" + .)' < "$data" >> "$dist"

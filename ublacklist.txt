@@ -1,6 +1,6 @@
 # This blacklist is powered by https://github.com/KisaragiEffective/no_knightmare
-# Generated-Date: 2023-02-12T05:39:50Z
-# Git-Commit: 726368672a70b86737ad6e0c94784259ac6d290a
+# Generated-Date: 2023-02-12T05:42:24Z
+# Git-Commit: f4d3cab03588d1c6d8c618b957db08aa6187b8a8
 *://jp.nicelifea.com/*
 *://petclev.com/*
 *://danmitop.com/*
@@ -81,11 +81,11 @@
 *://www.pet-shy.com/*
 *://www.lifebeautyy.com/*
 *://www.healthyue.com/*
-*://
-*://
-*://
-*://
-*://
-*://
-*://
-*://
+*://t.co/iEO9ajQOL8
+*://ift.tt/t71D0r3
+*://ift.tt/2Te1VX0
+*://t.co/XhutUMU5CI
+*://t.co/1NBNmQ43AL
+*://ift.tt/yleiW5Q
+*://ift.tt/OXetgRS
+*://t.co/Pn0heffU7x
