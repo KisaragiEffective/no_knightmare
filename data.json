@@ -438,5 +438,10 @@
     "type": "path",
     "match": "literal",
     "path": "t.co/Pn0heffU7x"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.commonsense11.com"
   }
 ]
