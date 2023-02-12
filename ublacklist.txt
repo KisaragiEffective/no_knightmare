@@ -1,6 +1,7 @@
 # This blacklist is powered by https://github.com/KisaragiEffective/no_knightmare
-# Generated-Date: 2023-02-12T05:42:24Z
-# Git-Commit: f4d3cab03588d1c6d8c618b957db08aa6187b8a8
+# Generated-Date: 2023-02-12T06:00:01Z
+# Git-Commit: b13d303c63b26220d59ff7701f385a1c348d5cdb
+# SPDX-License-Identifier: CC0
 *://jp.nicelifea.com/*
 *://petclev.com/*
 *://danmitop.com/*
