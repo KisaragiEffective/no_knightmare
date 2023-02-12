@@ -1,4 +1,6 @@
 # This blacklist is powered by https://github.com/KisaragiEffective/no_knightmare
+# Generated-Date: 2023-02-12T05:39:50Z
+# Git-Commit: 726368672a70b86737ad6e0c94784259ac6d290a
 *://jp.nicelifea.com/*
 *://petclev.com/*
 *://danmitop.com/*
@@ -12,7 +14,6 @@
 *://jp.remodelsh.com/*
 *://jp.bake8523.com/*
 *://renovmo.com/*
-*://t.co/iEO9ajQOL8
 *://jp.melhores24hrs.com/*
 *://jp.topcarweb.com/*
 *://jp.driver-skills.com/*
@@ -31,8 +32,6 @@
 *://www.damyup.com/*
 *://lifenewsjr.com/*
 *://laugh-more.com/*
-*://ift.tt/t71D0r3
-*://ift.tt/2Te1VX0
 *://jpshareba.com/*
 *://xuustory.com/*
 *://gyyplay.com/*
@@ -44,25 +43,20 @@
 *://www.petclev.com/*
 *://www.danmitop.com/*
 *://www.f-snack.com/*
-*://t.co/XhutUMU5CI
 *://jp.petclev.com/*
 *://remodelsh.com/*
 *://www.foodchef1.com/*
 *://www.meall-times.com/*
-*://t.co/1NBNmQ43AL
 *://www.healthyhubv.com/*
 *://www.autumnen.com/*
 *://healthyhubv.com/*
 *://www.laugh-more.com/*
 *://rifusy.com/*
 *://nutritious-breakfast.com/*
-*://ift.tt/yleiW5Q
-*://ift.tt/OXetgRS
 *://waagreat.com/*
 *://jp.foodzuser.com/*
 *://wprofessiion.com/*
 *://asahsi.com/*
-*://t.co/Pn0heffU7x
 *://jp.adorable-pet.com/*
 *://jp.dreamwe1.com/*
 *://vsdm8.com/*
@@ -87,3 +81,11 @@
 *://www.pet-shy.com/*
 *://www.lifebeautyy.com/*
 *://www.healthyue.com/*
+*://
+*://
+*://
+*://
+*://
+*://
+*://
+*://
