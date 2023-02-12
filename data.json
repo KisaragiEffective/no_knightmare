@@ -443,5 +443,10 @@
     "type": "domain",
     "match": "literal",
     "domain": "jp.commonsense11.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.abc-talks.com"
   }
 ]
