@@ -1,0 +1,442 @@
+[
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.nicelifea.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "petclev.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "danmitop.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "wsvsw.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "cakesshare.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.baby0world.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "meall-times.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.anfoodu.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.pet-encyclopedia.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.56k88.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.remodelsh.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.bake8523.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "renovmo.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.melhores24hrs.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.topcarweb.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.driver-skills.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "recipes-forfood.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "journeyvi.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "foodchef1.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.wiusbh.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.onedayabc.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.finish-new.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "fighthard415.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "petts-online.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "pets-myfriend.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.pet-myfriend.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.room-size.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "run-pet.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.damyup.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "lifenewsjr.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "laugh-more.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jpshareba.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "xuustory.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "gyyplay.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "feagreat.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "likehealth21.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "1997star.ltd"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "okeyread.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.aoode.top"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.petclev.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.danmitop.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.f-snack.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.petclev.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "remodelsh.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.foodchef1.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.meall-times.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.healthyhubv.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.autumnen.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "healthyhubv.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.laugh-more.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "rifusy.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "nutritious-breakfast.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "waagreat.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.foodzuser.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "wprofessiion.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "asahsi.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.adorable-pet.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.dreamwe1.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "vsdm8.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.trhen.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.food-ilove.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.mundocurioso24hrs.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "supercatdogs.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "solveapro.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "high-today.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.sancei.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.sankeii.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "newss.blogo.jp"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "sitess.blog.jp"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "stationcc.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.missebaby.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "room-size.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "cat-meowmeow.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "style-healthway.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.cause-success.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "ipetparadise.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.t5y7c.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.pet-shy.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.lifebeautyy.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.healthyue.com"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "t.co/iEO9ajQOL8"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "ift.tt/t71D0r3"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "ift.tt/2Te1VX0"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "t.co/XhutUMU5CI"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "t.co/1NBNmQ43AL"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "ift.tt/yleiW5Q"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "ift.tt/OXetgRS"
+  },
+  {
+    "type": "path",
+    "match": "literal",
+    "path": "t.co/Pn0heffU7x"
+  }
+]
