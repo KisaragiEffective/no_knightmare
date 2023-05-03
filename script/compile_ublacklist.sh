@@ -22,7 +22,7 @@ output() {
 output "# This blacklist is powered by https://github.com/KisaragiEffective/no_knightmare"
 output "# Generated-Date: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 output "# Git-Commit: $(git rev-parse HEAD)"
-output "# SPDX-License-Identifier: CC0"
+output "# SPDX-License-Identifier: CC0-1.0"
 
 data="$(dirname "$0")/../data.json"
 jq -r '.[] | select(.type == "domain") | .domain | ("*://" + . + "/*")' < "$data" >> "$dist"
