@@ -448,5 +448,345 @@
     "type": "domain",
     "match": "literal",
     "domain": "jp.abc-talks.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "1connotative.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "412lala.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "666.44finefood.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "anfoodu.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "article.99tango.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "article.mamiable.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "beauty-cutepet.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "cakeopp.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "carconts.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "charming355.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "comepet1.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "devefood.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "dreamwe1.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "dugreat.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "earl123.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "foodzuser.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "gettpet.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "ggethealth.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "good-timess.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "goodtime-life.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "healthysj.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jkingtimes.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.12starnews.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.firstopdesign.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.lemonlin.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.pet-welove.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.superbaby0127.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "keephealthy21.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "keepingl.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "kolovers.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "lovestylehouse.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "lovvebaby.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "newsdbl.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "newspostk.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "paintbucke.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "petfama.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "petilovey.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "petzaza.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "pnewsj.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "post.zhentoo.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "qaafunny.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "quotationsi.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "snoosport.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "togetter.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tu.warmdesignn.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.15lovingclub.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.gloriousfine.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.healthvigorous.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.lovelife75.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.pass345.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.skyrainbowco.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.wealwomen.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "tv.yuyhonor.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "uhealthweb.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "video.voosuper.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "wduiwg.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.adornmenti.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.decorate-manual.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.docilepuppy.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.eqaqo.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.facadeattic.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.finddelicacy.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.food-end.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.foodlifen.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.gogo-babies.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.hihipets.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.housesdevise.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.juicelse.com"
   }
 ]
