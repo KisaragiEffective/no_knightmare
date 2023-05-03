@@ -1,6 +1,6 @@
 ! This blacklist is powered by https://github.com/KisaragiEffective/no_knightmare
-! Generated-Date: 2023-02-12T07:23:10Z
-! Git-Commit: 705de8e49d2e83caaec2c06c474aa71e1a75ef54
+! Generated-Date: 2023-05-03T03:05:34Z
+! Git-Commit: a3e95470722523a0a2ff636bdfa7bfb0d2208a2e
 ! SPDX-License-Identifier: CC0
 ||jp.nicelifea.com^
 ||petclev.com^
@@ -84,6 +84,74 @@
 ||www.healthyue.com^
 ||jp.commonsense11.com^
 ||jp.abc-talks.com^
+||1connotative.com^
+||412lala.com^
+||666.44finefood.com^
+||anfoodu.com^
+||article.99tango.com^
+||article.mamiable.com^
+||beauty-cutepet.com^
+||cakeopp.com^
+||carconts.com^
+||charming355.com^
+||comepet1.com^
+||devefood.com^
+||dreamwe1.com^
+||dugreat.com^
+||earl123.com^
+||foodzuser.com^
+||gettpet.com^
+||ggethealth.com^
+||good-timess.com^
+||goodtime-life.com^
+||healthysj.com^
+||jkingtimes.com^
+||jp.12starnews.com^
+||jp.firstopdesign.com^
+||jp.lemonlin.com^
+||jp.pet-welove.com^
+||jp.superbaby0127.com^
+||keephealthy21.com^
+||keepingl.com^
+||kolovers.com^
+||lovestylehouse.com^
+||lovvebaby.com^
+||newsdbl.com^
+||newspostk.com^
+||paintbucke.com^
+||petfama.com^
+||petilovey.com^
+||petzaza.com^
+||pnewsj.com^
+||post.zhentoo.com^
+||qaafunny.com^
+||quotationsi.com^
+||snoosport.com^
+||togetter.com^
+||tu.warmdesignn.com^
+||tv.15lovingclub.com^
+||tv.gloriousfine.com^
+||tv.healthvigorous.com^
+||tv.lovelife75.com^
+||tv.pass345.com^
+||tv.skyrainbowco.com^
+||tv.wealwomen.com^
+||tv.yuyhonor.com^
+||uhealthweb.com^
+||video.voosuper.com^
+||wduiwg.com^
+||www.adornmenti.com^
+||www.decorate-manual.com^
+||www.docilepuppy.com^
+||www.eqaqo.com^
+||www.facadeattic.com^
+||www.finddelicacy.com^
+||www.food-end.com^
+||www.foodlifen.com^
+||www.gogo-babies.com^
+||www.hihipets.com^
+||www.housesdevise.com^
+||www.juicelse.com^
 ||t.co/iEO9ajQOL8^
 ||ift.tt/t71D0r3^
 ||ift.tt/2Te1VX0^
