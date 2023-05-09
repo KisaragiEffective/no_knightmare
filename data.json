@@ -788,5 +788,15 @@
     "type": "domain",
     "match": "literal",
     "domain": "www.juicelse.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.vidamelhoresaude.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "success-experience.com"
   }
 ]
