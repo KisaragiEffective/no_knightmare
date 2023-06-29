@@ -798,5 +798,66 @@
     "type": "domain",
     "match": "literal",
     "domain": "success-experience.com"
+  },
+  {
+      {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.cartoontalking.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "loveyou-pets.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.parenthi.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "www.styleihome.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.fgnj1634.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "missebaby.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.412lala.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "onbest-pets.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.etsbaby.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.thecar-repair.com"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "jp.energy-story.net"
+  },
+  {
+    "type": "domain",
+    "match": "literal",
+    "domain": "freeiiwant.com"
   }
 ]
